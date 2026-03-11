@@ -6,7 +6,6 @@
 
 ## 👤 About Me
 
-- 🔭 &nbsp;Currently building a full-stack **HR Management System** (Python backend + React frontend)
 - 🌱 &nbsp;Learning more about **system design**, **API architecture**, and **TypeScript**
 - 💡 &nbsp;Interested in **web development**, **developer tools**, and **productivity apps**
 - 🤝 &nbsp;Open to collaborations and freelance projects
