@@ -1,17 +1,23 @@
-# Hi, I'm Arham Rasheed 👋
-
-CS student at **FAST-NUCES** 🇵🇰 &nbsp;·&nbsp; Aspiring AI Engineer &nbsp;·&nbsp; Backend Developer &nbsp;·&nbsp; Open to Internships
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hey,%20I'm%20Arham%20Rasheed%20👋&fontSize=36&fontAlignY=40&fontColor=ffffff&animation=fadeIn)
 
 ---
 
-## 👤 About Me
+## 🌟 About Me
 
-- 🎓 &nbsp;Studying **Computer Science** at FAST (National University of Computer and Emerging Sciences)
-- 🤖 &nbsp;Moving toward **AI Engineering** — interested in ML systems, Computer Vision, and LLM tooling
-- 🔧 &nbsp;Strong foundation in **backend development** — NestJS, Django, REST APIs, databases
-- 💻 &nbsp;Grinding **LeetCode** daily to sharpen my DSA & algorithmic thinking
-- 🌱 &nbsp;Currently exploring **LangChain**, **LangGraph**, and how to build production-ready AI pipelines
-- 🤝 &nbsp;Looking for **internships** I can manage alongside my FAST academic workload
+🎓 CS student at **FAST-NUCES**, Pakistan  
+🤖 Aspiring **AI Engineer** — interested in ML systems, Computer Vision, and LLM tooling  
+🔧 Strong foundation in **backend development** — NestJS, Django, REST APIs, databases  
+💻 Grinding **LeetCode** daily to sharpen DSA & algorithmic thinking  
+🌱 Currently exploring **LangChain**, **LangGraph**, and production-ready AI pipelines  
+🤝 Open to **internships** I can manage alongside my university workload
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arhamrasheed)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arhamrasheed20@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ArhamRasheed)
 
 ---
 
@@ -24,46 +30,47 @@ CS student at **FAST-NUCES** 🇵🇰 &nbsp;·&nbsp; Aspiring AI Engineer &nbsp;
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **AI / ML**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Backend**
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
@@ -71,7 +78,7 @@ CS student at **FAST-NUCES** 🇵🇰 &nbsp;·&nbsp; Aspiring AI Engineer &nbsp;
 
 ## 🚧 Projects
 
-> AI-focused projects coming soon. Currently building foundations in ML and LLM tooling.
+> 🤖 AI-focused projects coming soon — currently building foundations in ML and LLM tooling.
 
 | Project | Stack | Description |
 |--------|-------|-------------|
@@ -83,18 +90,10 @@ CS student at **FAST-NUCES** 🇵🇰 &nbsp;·&nbsp; Aspiring AI Engineer &nbsp;
 
 ## 📊 GitHub Stats
 
-![Arham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArhamRasheed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArhamRasheed&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArhamRasheed&theme=tokyonight&hide_border=true)
-
----
-
-## 📫 Get in Touch
-
-- 📧 **arhamrasheed20@gmail.com**
-- 💼 Open to internships and collaborations
+![](https://github-readme-stats.vercel.app/api?username=ArhamRasheed&theme=aura&hide_border=false&count_private=true&show_icons=true)
+![](https://nirzak-streak-stats.vercel.app/?user=ArhamRasheed&theme=aura&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArhamRasheed&theme=aura&layout=compact&hide_border=false)
 
 ---
 
-*"Build things. Break things. Understand why."*
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer)
